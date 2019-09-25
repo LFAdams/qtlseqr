@@ -1,4 +1,4 @@
-# qtlseqr1
+# qtlseqr
 Scripts used to generate data for 788 vs 12178A spring 2019 QTLseqR study.
 
 This readme is a record of the steps followed to generate QTLseqR data for 788 vs 12178A based on phenotyping data collected in spring 2019.
