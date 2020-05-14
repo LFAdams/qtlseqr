@@ -10,3 +10,5 @@ cd $PBS_O_WORKDIR
 module load SAMtools/1.6-foss-2016b
 
 time  samtools view -@ 8 -S -b Rbulk_aligned.sam > R_aligned.bam
+
+samtools flagstat R_aligned.bam > R_bam_stats
