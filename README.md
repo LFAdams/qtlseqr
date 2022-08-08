@@ -1,7 +1,7 @@
 # qtlseqr
 Scripts used to generate data for 788 vs 12178A spring 2019 QTLseqR study.
 
-##This repo is intended to preserve the data pipeline exactly as it was run to generate the data for the study. I know bash scripts are a thing now and realize the pipeline could be massively simplified into a single shell script. You live and you learn.
+##This repo is intended to preserve the data pipeline exactly as it was run to generate the data for the study. I much more about bash scripting and realize the pipeline could be massively simplified into a single shell script. You live and you learn.
 
 This readme is a record of the steps followed to generate QTLseqR data for 788 vs 12178A based on phenotyping data collected in spring 2019.
 
